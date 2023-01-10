@@ -1,6 +1,7 @@
 title: this project
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: Computational Thinking with Data
 theme: just-the-docs
+author: Dzsyang
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/unnamed.png"
@@ -10,7 +11,7 @@ favicon_ico: "/assets/favicon.ico"
 # Aux links for the upper right navigation
 aux_links:
   "View this project on GitHub":
-    - "//github.com/goooooooooooogle/just-the-docs-template"
+    - "//github.com/Dzsyang/STAT3060J"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -20,5 +21,5 @@ mermaid:
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
   version: "9.1.3"
 
-url: https://goooooooooooogle.github.io/just-the-docs-template
+url: https://dzsyang.github.io/STAT3060J/
 
