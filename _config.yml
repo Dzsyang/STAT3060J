@@ -1,7 +1,24 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: this project
+description: A starter template for a Jeykll site using the Just the Docs theme!
+theme: just-the-docs
 
-title: Computational Thinking with Data
-description: UM-SJTU Joint Institute <br /> 2023 Winter Program
-logo: /assets/img/logo.jpg
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/unnamed.png"
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "/assets/favicon.ico"
+
+# Aux links for the upper right navigation
+aux_links:
+  "View this project on GitHub":
+    - "//github.com/goooooooooooogle/just-the-docs-template"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.3"
+
+url: https://goooooooooooogle.github.io/just-the-docs-template
+
