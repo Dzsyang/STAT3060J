@@ -8,7 +8,7 @@
 
 ## Website
 
-### https://dzsyang.github.io/STAT3060J/
+### https://dzsyang.love/STAT3060J/
 
 
 ## Contact
