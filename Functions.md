@@ -4,6 +4,8 @@ title: Functions
 nav_order: 5
 ---
 
+#### Table of Contents
+{: .no_toc .text-delta }
 
 - 1
 - 2
@@ -51,7 +53,7 @@ In this picture, we can make several conclusions:
 
 In this picture, we use Click Times Per Day (CTPD) as a variable.
 
-We can find that CTPD increases slowly at first, but becomes soon in version 3-5, and then gradually decreases in the later version.
+We can find that CTPD increases slowly at first, but becomes soon in version 10/26-11/6, and then gradually decreases in the later version.
 
 Assume that the residents are required to use functions like "疫情防控" or have needs to use these functions.
 
